@@ -1,0 +1,15 @@
+{
+  "welcome": "Willkommen",
+  "home": {
+    "title": "Mein Blog – Startseite",
+    "description": "Willkommen auf der Startseite meines Blogs mit Nuxt."
+  },
+  "nav": {
+    "home": "Startseite",
+    "blog": "Blog",
+    "about": "Über Uns"
+  },
+  "blog": {
+    "title": "Neueste Blogbeiträge"
+  }
+}
