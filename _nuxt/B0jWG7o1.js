@@ -1,0 +1,1 @@
+import{_ as s,c as o,a as t,o as c}from"./BiZYWuAB.js";const a={},n={class:"text-center mt-10"};function r(l,e){return c(),o("div",n,e[0]||(e[0]=[t("h1",{class:"text-4xl font-bold"},"Welcome to My Nuxt Blog",-1),t("p",{class:"mt-2 text-gray-500"},"This is the homepage",-1)]))}const _=s(a,[["render",r]]);export{_ as default};
